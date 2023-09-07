@@ -1,3 +1,3 @@
 # requien
 
-here is the Space for Requirement Analyse Toll
+here is Space for the Requirement Analyse Tool (requien)
